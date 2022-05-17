@@ -2,9 +2,7 @@ package search.userInterfaces;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 import java.util.Scanner;
-import java.util.function.Predicate;
 
 public class SearchInterface implements SuperInterface {
     private final Scanner scanner;

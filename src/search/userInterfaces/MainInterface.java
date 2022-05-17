@@ -3,7 +3,6 @@ package search.userInterfaces;
 import search.interfaceChoiceConstants.MainInterfaceEnum;
 
 import java.util.ArrayList;
-import java.util.Map;
 import java.util.Scanner;
 
 public class MainInterface implements SuperInterface {
